@@ -39,7 +39,7 @@ The client provided KPMG with 3 datasets:
 <br>
 
 ### **Result**
-[Check out the analysis in the notebook!](https://github.com/faizns/VIX-Data-Analytics-KPMG-AU/blob/main/Task%201%20-%20KPMG%20VIX.ipynb) <br>
+[Check out the analysis in the notebook!](https://github.com/pradeep-1995/Data_Analytics_KPMG/blob/main/Task_1_KPMG.ipynb) <br>
 
 
 | **Tabel Name**      | **No of Records** | **Distinct customer_id** | **Date Data Recieved** |
@@ -105,7 +105,8 @@ Sprocket Central Pty Ltd marketing team is looking to boost business by analysin
 <br>
 
 ### **Result**
-[Check out the analysis in the notebook!]() <br>
+[Check out the data analysis of all old data in the notebook!](https://github.com/pradeep-1995/Data_Analytics_KPMG/blob/main/Task_2_KPMG.ipynb) <br>
+[Check out the data analysis of new_customers in the notebook!](https://github.com/pradeep-1995/Data_Analytics_KPMG/blob/main/Task_2_New_customer.ipynb) <br>
 
 #### **RFM Analysis**
 RFM is a basic customer segmentation algorithm based on their purchasing behavior. The behavior is identified by using only three customer data points: recency, frequency, and monetary. In this project we use Transactions tabel.
@@ -216,7 +217,7 @@ After building the model we need to present our results back to the client. A li
 <br>
 
 ### **Result**
-[Check out in the Tableau!]() <br>
+[Check out in the Tableau!](https://github.com/pradeep-1995/Data_Analytics_KPMG/blob/main/KPMG%20Data%20Visaulisation%20Dashboard.pbix) <br>
 <br>
 
 <p align="center">
